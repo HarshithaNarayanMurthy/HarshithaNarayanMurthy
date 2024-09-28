@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Harshitha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I’m Harshitha, a passionate Computer Science student specializing in Machine Learning, Deep Learning, and Artificial Intelligence. I love exploring the intersection of technology and creativity, from building image captioning models to working on impactful machine learning projects. With skills in Python, Java, and PyTorch, I’m always eager to tackle real-world challenges through innovative tech solutions.</h3>
 
 - 🌱 I’m currently learning **Gen AI, Cloud Computing**
 
